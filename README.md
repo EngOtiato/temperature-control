@@ -1,5 +1,5 @@
 # Constant temperature control in a cooking pot under power-limited conditions
-This repository contains the data and code used in the paper: _Positioning a single thermocouple for temperature control in a cooking pot under power-limited conditions._
+This repository contains the data and code used in the draft paper: _Positioning a single thermocouple for temperature control in a cooking pot under power-limited conditions._
 
 ### Dependencies and Libraries
 The constant temperature PI controller code requires the following dependencies and libraries to run and produce the results:
