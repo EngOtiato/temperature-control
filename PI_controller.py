@@ -168,7 +168,7 @@ with open("mass_id_2.csv", "w", newline="") as my_csv_file:
     csv_writer.writeheader()
 
 # Loop to control the Power Supply and Heater using the PI controller
-while True:
+while Time <= 5400:
     temp = get_single_temperature_reading_1()
     temps = get_single_temperature_reading_2()
     # Read the current temperature from a sensor at channel 4
